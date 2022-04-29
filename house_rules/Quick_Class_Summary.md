@@ -140,3 +140,20 @@ If the target is inherently Chaotic - like Undead, Demons or fey - you may also 
 |     -1      | You are directly affected by a beneficial chaotic spell  |
 |     -1      | You harm a follower of your own faith without just cause |
 |     -2      | You harm a lawful entity                                 |
+
+# XP to reach level 2
+Gain 1 XP for every silver piece (sp) of treasure recovered from an adventure.
+
+| Fighter | Wizard | Specialist | Cleric |
+| ------- | ------ | ---------- | ------ |
+| 2000    | 2250   | 1500       | 1750   | 
+
+# Saving throw summary
+| Class      | Paralyse | Poison | Breath | Devices | Magic |
+| ---------- | -------- | ------ | ------ | ------- | ----- |
+| Fighter    | 14       | 13     | 12     | 13      | 14    |
+| Wizard     | 14       | 16     | 14     | 15      | 13    |
+| Specialist | 13       | 16     | 14     | 15      | 13    |
+| Cleric     | 14       | 13     | 15     | 13      | 13    |
+
+Gain -1 to each saving throw on level up.
