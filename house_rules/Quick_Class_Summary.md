@@ -1,23 +1,27 @@
 # The Core Four
+
 ## The Fighter
 - HD: 1d8 hp per level until level 9. Minimum 8 hp at 1st level.
 - Saves: Paralysis = 14, Poison = 13, Breath = 12, Device = 13, Magic = 14
 
 - Combat Master: +1 to hit per level. This means Fighters have a base +2 to hit at level 1.
 - Martial bearing: A Fighter gains a +2 bonus to morale checks and reaction rolls when dealing with the military, henchmen, retainers and other law-abiding citizenry.
+
 ## The Wizard
 - HD: 1d4 hp per level up to level 9. Minimum 3 HP at 1st level.
 - Saves: Paralysis = 14, Poison = 16, Breath = 14, Device = 15, Magic = 13
 
 - Chaos Magick: Gain a mana pool equal to level. Fully regain Mana after 8 hours of rest.
 - Maddened Scribbles: Start with a grimoire containing 2 random spells + read magic. Grimoires are large tomes and are considered bulky.
-- Wizard Vengeance: When you die your Familiar mutates into a horrifying demon and takes revenge. Unspent Mana gives it more power. It can cast any remaining Bound Spells you had at-will. It's base HD is your level +1 for each unspent Mana you had.
+- Wizard Vengeance: When you die, the magic within you forms into a horrifying demon. Unspent Mana gives it more power. It can cast any remaining Bound Spells you had at-will. It's base HD is your level +1 for each unspent Mana you had.
+
 ## The Specialist
 - HD: 1d6 Hit Die per level up to level 9. Minimum 4 HP at 1st level.
 - Saves: Paralysis = 13, Poison = 16, Breath = 14, Device = 15, Magic = 13
 
-- Storied past: Has 2 failed careers in their past, also giving 2 more skill points. Who were you once?
-- Tools unneeded: If specific equipment is required to use a skill properly, Specialists do not require it. If they use it, they get a bonus +1 to the skill.
+- Experienced past: Has 2 failed careers in their past, also giving 2 more skill points. Gain 2 skill points every level up.
+- Tools unneeded: If specific equipment is required to use a skill properly, Specialists do not require it. If they have it, they get +1 to the skill check.
+
 ## The Cleric
 - HD: 1d6 Hit Die. Minimum 4 HP at first level.
 - Saves: Paralysis = 14, Poison = 13, Breath = 15, Device = 13, Magic = 13
@@ -32,12 +36,12 @@
 ### The church: Worshippers of THE AUTHORITY
 Theme: Dominant faith of the realm
 
-Powers: Standard Cleric stuff. Fight Chaos, praise the Nine.
+Powers: Standard Cleric stuff. Fight Chaos, praise THE AUTHORITY.
 
 Miracles:
-- Bless: Grant all creatures within 20' the Blessing of the Zenith Deity. Lasts 1 Turn/level.
+- Bless: Grant a creature a reroll on a die roll.
 - Smite: Make a normal attack roll. On hit, deal normal weapon damage which bypasses immunities and resistances. If the target is inherently Chaotic - like Undead, Demons or Elves - you may also drain points from your Healing Pool to deal as much bonus damage to the creature.
-- Augury: Commune with the Zenith Deity.  They will answer one question per level by imparting a sense of woe/weal.
+- Augury: Commune with an angel of THE AUTHORITY.  They will answer one question per level by imparting a sense of woe or weal.
 
 | Observance                                               | Faith points |
 | -------------------------------------------------------- | ------------ |
@@ -46,9 +50,9 @@ Miracles:
 | You succeed at a saving throw                            | +1           |
 | You strike a chaotic being with intent to kill           | +1           |
 | You pray in a church                                     | +1           |
-| You commit blasphemy                                     | -1           |
+| You are directly affected by a beneficial chaotic spell  | -1           |
 | You harm a follower of your own faith without just cause | -1           |
-| You harm a lawful entity                                 | -2             |
+| You harm a lawful entity                                 | -2           |
 
 ## XP to level 2
 You gain 1 XP for every silver piece worth of treasure recovered from an adventure, split between the party in equal shares.
