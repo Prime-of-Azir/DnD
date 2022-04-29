@@ -1,8 +1,8 @@
 ## Char Gen
 1. Roll 3d6 for each ability score down the line. You can swap 2 of them with each other. 
 	- Str -> Int -> Wis -> Dex -> Con -> Cha 
-2. Roll a random failed profession. This will give you a weapon, an object, and two skill points. 
-3. Pick a class. Get 1 piece of gear based on your choice. 
+2. Roll a random failed profession. This will give you a weapon, an object, and two skill points (distribute wherever fitting). 
+3. Pick a class.
 4. Roll starting cash & note down your gear. 
 5. The hardest part, think of a name.
 
