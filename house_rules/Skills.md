@@ -26,7 +26,7 @@ Dive away from the explosion, tackle a friend out of the trap’s path, get your
 
 **Stealth:** Hiding in shadows, evading notice, moving silently, general sneakiness.
 
-**Backstab:** Grants critical hits against Surprised or Flanked enemies.
+**Backstab:** Use on Surprised enemies. On a success, damage is multiplied by the rolled amount.
 
 **Sleight of hand:** Palm objects, pick pockets, and other tasks requiring quick fingers and misdirection.
 
