@@ -6,6 +6,24 @@ Turns are used to track time until a spell ends or torches or lanterns burn out.
 
 As time passes, there is also a chance that you will, for better or worse, cross paths with the dangerous denizens of the dungeons.
 
+## Light
+When slowly crawling through the deep, deep darkness, far from the sun, its important to have a light source with you. 
+There are 2 main sources of light. They are:
+- Torches: Cheap & only lasts for 1 hour.
+- Lantern: Expensive, fragile, & needs flasks of oil for fuel. Each flask burns for 4 hours.
+
+Let yourself be lost to the darkness far from the entrance & without a light source & the dungeon & its denizens will hunt you down. Roll & pray as you scramble for the surface.
+
+|     | Did I escape this dark dungeon?                                 |
+| --- | --------------------------------------------------------------- |
+| 1-6 | You die.                                                        |
+| 7   | You are lost to the darkness. (Become a random encounter)       |
+| 8   | You make it to the surface but swear to never adventure again.  |
+| 9   | You make it to the surface with a deadly wound. Try not to die. |
+| 10  | You are captured. (PCs know the gen location and what did it)   |
+| 11  | You lose your backpack and all items within.                    |
+| 12  | You make it back to the surface, unscathed.                     |
+
 ## Inventory
 Slot-based inventory system: you have 2 body slots and 2 hand slots. If wearing a backpack, it provide 6+Str bonus slots. 
 This is the maximum amount of items you may carry.
