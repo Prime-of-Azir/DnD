@@ -4,7 +4,7 @@
 2. Roll a random failed profession. This will give you a weapon, an object, and two skill points (distribute wherever fitting). 
 3. Pick a class.
 4. Roll starting cash & note down your gear. 
-5. The hardest part, think of a name.
+5. The hardest part, think of a name!
 
 ------
 
@@ -28,7 +28,7 @@ Inventory uses a slot-based encumbrance system.
 Items in *italic* take 0 inventory slots. **Bold** items take 2 slots.
 You start with
 - A *backpack* and *peasant clothing*.
-- The items given from your failed profession & class.
+- The items given from your failed profession & class, if any.
 - Some random starting silver based on your charisma.
 
 |   Charisma    | Starting Silver | 
@@ -44,16 +44,16 @@ You start with
 100 copper stars (CP) = 10 silver moons (SP) = 1 golden sun (GP)
 
 If this is a new party, the group gets 50’ rope, 6 torches and a tinderbox (flint & steel).
-You can buy equipment packs with your starting silver.
-- Delver: 50’ rope, 5 torches, 5 iron spike bundle, *stick of chalk* (5 uses)
-- Wayfarer: **Bedroll**, cooking pot, fishing gear, 3 standard rations, *soap*
+You can buy equipment packs with your starting silver for 5 sp each.
+- Delver: 50’ rope, 3 torches, 5 iron spike bundle, *stick of chalk* (5 uses)
+- Wayfarer: **Bedroll**, 5 rations, *soap*
 
 ### Consumables 
 Food and light are consumables you will need to repurchase. 
 
-| Consumable              | Cost     | Enc    | 
-| ----------------------- | -------- | ------ |
-| Rations                 | 1 silver | 5/slot |
-| Torches - lasts 1 hour  | 1 copper | 5/slot |
-| Lamp oil - Last 4 hours | 1 silver | 5/slot |
-| Arrows/bolts            | 10       | 1 slot |
+| Consumable              | Cost      | Enc    |
+| ----------------------- | --------- | ------ |
+| Rations                 | 1 silver  | 5/slot |
+| Torches - lasts 1 hour  | 1 copper  | 5/slot |
+| Lamp oil - Last 4 hours | 5 copper  | 5/slot |
+| 20 Arrows/bolts         | 10 silver | 1 slot |
