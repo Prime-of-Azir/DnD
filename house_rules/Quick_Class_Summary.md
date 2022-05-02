@@ -22,6 +22,8 @@ Saves: Fighter. (Paralysis 14, Death 13, Breath 12, Wands 13, Spells 14)
 **Combat Master:** +1 to hit per level.  
 This means Fighters have a base +2 to hit at level 1.
 
+**Armour training:** Fighters are able to wear heavy armour without a -2 penalty to their physical rolls.
+
 **Martial bearing:** A Fighter gains a +2 bonus to morale checks and reaction rolls when dealing with the military, henchmen, retainers and other law-abiding citizenry.
 
 # Specialist
