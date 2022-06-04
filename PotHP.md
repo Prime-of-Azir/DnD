@@ -1,0 +1,28 @@
+Recap
+- Party are a small group that met along the road while leaving the city of rustvale, suffering from a dying economy after the iron mines died out.
+- At dusk, they reached the village of Broken Huts, full of shitty huts & fields of turnip & barley.
+- Looking for information, Fauzi approached a beggar, 1-legged Jimmy, looking for money to buy turnip wine. In exchange for 1 silver, he told the party that they didn't have a leader, closest thing to that was their wise woman, she delivers babies. He also told them that people only come here for 2 things, turnip wine & the tower.
+	- The tower was built more than a hundred years ago by some guys in bird masks with a King. They came, built a tower and returned to the town where they tortured people for being "profane", this time without the prisoner.
+	- He said that bandits once hid in the tower & never came back. The tower is cursed.
+- [[Michel's character]] convinced Jimmy that, rather than staying in this shithole & wasting the money on getting drunk, he should leave and start a new life for himself.
+- Jimmy brought the party to the largest hut in town. They saw people gathering there to get drunk together. They met the wise woman, a woman in her 40s. She pointed out, annoyed, that she's the *head*woman, not the wise woman. She's also the one that makes the turnip wine.
+	- Asked about the tower, she told them that village kids who sometimes like to go near have seen a ghostly figure at the top of the tower crenelations.
+	- Asked of where they might sleep, she says that, in exchange for 1 sp, she'll let them sleep in her son's beds.
+	- Asked if Turnip wine is explosive, she says "Hell yes, don't put any fire near it." & [[Michel's character]] buys some bottles of turnip wine from her for 1 sp.
+- Having secured lodgings, they decide to go the tower at night to investigate it. Before leaving, [[Josh's character]] uses a spyglass to observe the tower. He sees that the front of the tower is carved to look like a regal beard man with a crown and an open mouth, as if screaming.
+- They see that a nearby tree has a noose hanging from it. [[Fauzi]] climbs it to reach the eyes of the stone carving. They are iron-barred windows but it is too dark for him to see what's inside.
+- The party decides to enter by the front entrance after an augury by [[Roddy's character]]. Before entering, [[Josh's character]] casts *protection from evil* & they light a torch. They see a room with a floor covered with dry glass & scattered bones along with piles of rocks.
+	- The rock piles are discovered to be remnants of campfires.
+- At the centre of the room, is a small circular jade floor that is perfectly clean. The farther side of the jade circle has walls follow its perimeter broken up by 2 pathways.
+- [[Josh's character]] sees that beyond there are murals, a throne that says "DESPISED.BY.GOD" & a spiral staircase going up and down. At the downward direction, there's a faint light.
+- They explore downward & find a leather book at the bottom of the stairs on a pile of bones. They also see 24 ethereal beings, a sort-of 3d lattice of an angry baby face.
+- All of the party, except for Josh, immediately decide to go back upstairs to the jade circle. Josh goes and grabs the book before hoofing it back upstairs. The ethereal beings seem to follow his torchlight but don't attack him until his *protection from evil runs out*. He then throws the torch down the stairs & most of the beings chase after it. 3 of them continue to follow him and attack him by biting with searing fangs. The back of his shirt and his backpack along with everything in it is destroyed in the process.
+- [[Roddy's character]] heals [[Josh's character]] back to full health and they decide to go back to [[1.Broken huts]] to sleep and return on the next day.
+
+## GM Notes
+- When they got to town, the 1st thing that happened was Fauzi asking some rando "Hey, what's going on here? Who's in charge?"
+	- CONCLUSION: 1 core question is always who is in charge. But also that they will always ask the 1st person they can find what is going on in this place & desire to work with whoever is at the top.
+- They really *felt* the town. They enmeshed themselves in it, especially Michel.
+	- CONCLUSION: New attempt at town narration by focusing on the people in the town worked brilliantly. A settlements people are its heart. That is the core of any thematic flavour. Architecture only matters in what it says about the people. (Describing the village as having 20 slumping huts made clay, dried hay & bent sticks)
+- They be greedy bastards. Roddy wants dat jade.
+- Very cautious about their exploration. Should try to speed them up.
